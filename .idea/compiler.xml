@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JavaEE-02" />
+        <module name="JavaEE-01" />
+        <module name="core" />
+        <module name="JavaEE_SpringMVC01" />
+        <module name="JavaEE_SpringMVC" />
+        <module name="db" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JavaEE-SpringMVC02" target="1.8" />
+      <module name="JavaEE_SpringMVC02" target="1.8" />
+      <module name="JavaEE—SpringMVC02" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
